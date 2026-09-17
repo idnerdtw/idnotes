@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>肺移植受者 A 型流感治療｜ID Reading Notes</title>
+<title>肺移植受者 A 型流感治療｜idnotes</title>
 <style>
 :root { color-scheme: light; }
 * { box-sizing: border-box; }
@@ -11,7 +11,7 @@ body { margin: 0; font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHe
   line-height: 1.65; color: #1a1a1a; background: #f6f7f9; }
 .wrap { max-width: 44rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
 header.site { margin-bottom: 1.25rem; padding-bottom: 0.75rem; border-bottom: 1px solid #d8dde6; }
-header.site a { color: #1d4ed8; text-decoration: none; }
+header.site a { color: #1d4ed8; text-decoration: none; font-weight: 600; }
 .meta { display: inline-block; margin: 0.35rem 0 1rem; padding: 0.35rem 0.7rem;
   background: #e8f0fe; color: #1e3a8a; border-radius: 6px; font-size: 0.95rem; font-weight: 600; }
 article { background: #fff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1.25rem 1.35rem 1.75rem; }
@@ -22,11 +22,28 @@ p { margin: 0.55rem 0; }
 ul { margin: 0.4rem 0 0.8rem 1.2rem; padding: 0; }
 li { margin: 0.25rem 0; }
 footer { margin-top: 1.5rem; font-size: 0.85rem; color: #64748b; }
+.card { background:#fff; border:1px solid #e2e8f0; border-radius:10px; padding:1rem 1.15rem; margin-top:0.75rem; }
+.card h2 { margin:0 0 0.35rem; border:0; font-size:1.15rem; }
+.card a { color:#1d4ed8; text-decoration:none; }
+.search-wrap { position: relative; margin: 1rem 0 0.25rem; }
+#q { width: 100%; padding: 0.7rem 0.85rem; font-size: 1rem; border: 1px solid #cbd5e1;
+  border-radius: 8px; outline: none; }
+#q:focus { border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,.15); }
+#suggest { position: absolute; left: 0; right: 0; top: calc(100% + 4px); z-index: 20;
+  background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 8px 24px rgba(15,23,42,.08);
+  max-height: 280px; overflow: auto; display: none; }
+#suggest button { display: block; width: 100%; text-align: left; border: 0; background: transparent;
+  padding: 0.65rem 0.85rem; cursor: pointer; font: inherit; color: inherit; border-bottom: 1px solid #f1f5f9; }
+#suggest button:last-child { border-bottom: 0; }
+#suggest button:hover, #suggest button[aria-selected="true"] { background: #eff6ff; }
+#suggest .title { font-weight: 600; }
+#suggest .hint { display:block; font-size: 0.85rem; color: #64748b; margin-top: 0.15rem; }
+#list .card.hidden { display: none; }
 </style>
 </head>
 <body>
 <div class="wrap">
-<header class="site"><a href="./">← ID Reading Notes</a></header>
+<header class="site"><a href="../index.html">← idnotes</a></header>
 <article>
 <h1>肺移植受者 A 型流感治療</h1>
 <p class="meta">更新日期：2026-09-17（Asia/Taipei）</p>
@@ -121,7 +138,7 @@ footer { margin-top: 1.5rem; font-size: 0.85rem; color: #64748b; }
 <li>Grok Expert 交叉核對；Gigi小助手修訂討論</li>
 </ul>
 </article>
-<footer>更新日期：2026-09-17（Asia/Taipei） · 公開去識別化摘要 · <a href="https://github.com/idnerdtw/id-reading-notes">GitHub</a></footer>
+<footer>更新日期：2026-09-17（Asia/Taipei） · 公開去識別化摘要 · <a href="https://github.com/idnerdtw/idnotes">GitHub</a></footer>
 </div>
 </body>
 </html>
