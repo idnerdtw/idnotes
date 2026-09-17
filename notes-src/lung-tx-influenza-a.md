@@ -1,6 +1,6 @@
 # 肺移植受者 A 型流感治療
 
-更新：2026-09-17（Asia/Taipei）
+更新日期：2026-09-17（Asia/Taipei）
 
 來源：Gigi小助手修訂＋UpToDate（一般流感治療／肺移植病毒感染專題）＋Grok Expert 交叉核對；對照 AST 2019、CDC antiviral summary、IDSA、Mitha 2019、FLAGSTONE、TAMIFLU 美國仿單。公開頁面僅放去識別化臨床摘要，不含個案資料。
 
@@ -46,7 +46,7 @@
 
 重度免疫抑制者不建議常規單藥（證據不足＋抗藥風險）。小型免疫低下／腎移植回溯資料不足以取代 oseltamivir。FLAGSTONE 未證明住院重症常規加 baloxavir 可改善主要終點。
 
-**UpToDate 註記：** 其肺移植專題對「住院 LTx」曾建議考慮 oseltamivir＋baloxavir；這與一般治療頁、CDC、FLAGSTONE「不常規 combo」不一致。定稿採：**不列常規**；僅難治／抗藥／極高危由感染＋移植團隊個別討論。
+**UpToDate 註記：** 其肺移植專題對「住院 LTx」曾建議考慮 oseltamivir＋baloxavir；這與一般治療頁、CDC、FLAGSTONE「不常規 combo」不一致。此版採：**不列常規**；僅難治／抗藥／極高危由感染＋移植團隊個別討論。
 
 ## 四、經驗性抗生素？
 
