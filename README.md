@@ -3,7 +3,7 @@
 靜態 GitHub Pages，供院內科網外連。內容為去識別化臨床讀書摘要。
 
 - Pages: https://idnerdtw.github.io/idnotes/
-- 目前筆記：肺移植受者 A 型流感治療（更新 2026-09-17 Asia/Taipei）
+- 目前筆記：肺移植 A 型流感治療（更新 2026-09-17 Asia/Taipei）
 
 ## Structure
 
