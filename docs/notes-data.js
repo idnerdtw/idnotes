@@ -1,4 +1,5 @@
-[
+// Generated from notes.json by scripts/sync-site.py; do not edit.
+window.IDNOTES = [
   {
     "id": "lung-tx-influenza-a",
     "title": "肺移植 A 型流感治療",
@@ -23,4 +24,4 @@
     "url": "notes/lung-tx-influenza-a.html",
     "type": "reading-note"
   }
-]
+];
