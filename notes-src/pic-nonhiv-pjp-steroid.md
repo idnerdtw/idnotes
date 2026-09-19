@@ -46,6 +46,6 @@ PIC **未證實** adjunctive corticosteroid 可降低非 HIV PJP 的 **28 天死
 
 ## 參考
 
-Lemiale V, et al. Adjunctive corticosteroids in non-AIDS patients with severe *Pneumocystis jirovecii* pneumonia (PIC): a multicentre, double-blind, randomised controlled trial. *Lancet Respir Med.* 2025;13:800–808. DOI: [10.1016/S2213-2600(25)00125-0](https://doi.org/10.1016/S2213-2600(25)00125-0). NCT02944045.
+Lemiale V, et al. Adjunctive corticosteroids in non-AIDS patients with severe *Pneumocystis jirovecii* pneumonia (PIC): a multicentre, double-blind, randomised controlled trial. *Lancet Respir Med.* 2025;13:800–808. DOI: https://doi.org/10.1016/S2213-2600(25)00125-0. NCT02944045.
 
 UpToDate. Treatment and prevention of Pneumocystis pneumonia in patients without HIV. Topic last updated Mar 30, 2026.
