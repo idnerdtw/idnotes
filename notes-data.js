@@ -34,6 +34,7 @@ window.IDNOTES = [
       "PJP",
       "PCP",
       "Pneumocystis",
+      "pneumonia",
       "corticosteroid",
       "steroid",
       "non-HIV",
@@ -42,7 +43,7 @@ window.IDNOTES = [
       "Lemiale",
       "methylprednisolone",
       "prednisone",
-      "低氧",
+      "hypoxemia",
       "ICU"
     ],
     "url": "notes/pic-nonhiv-pjp-steroid.html",
