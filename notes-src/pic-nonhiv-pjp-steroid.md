@@ -1,8 +1,8 @@
-# PIC 與 UpToDate：非 HIV PJP 的輔助 corticosteroid
+# 非 HIV PJP 的輔助 corticosteroid
 
 更新日期：2026-09-20（Asia/Taipei）
 
-來源：UpToDate〈Treatment and prevention of Pneumocystis pneumonia in patients without HIV〉（2026-03-30 更新）為目前 favor 的臨床立場；PIC 全文（Lemiale et al., *Lancet Respir Med* 2025）＋ChatGPT Pro（gpt-6-pro）與 Grok Expert 交叉討論後定稿。公開頁僅放臨床備忘，不含個案資料。
+來源：UpToDate〈Treatment and prevention of Pneumocystis pneumonia in patients without HIV〉（2026-03-30 更新）為目前 favor 的臨床立場；PIC 全文（Lemiale et al., *Lancet Respir Med* 2025）＋ChatGPT Pro（gpt-6-pro）與 Grok Expert 交叉討論後定稿。
 
 ## 一、目前建議（UpToDate）
 
