@@ -23,5 +23,29 @@ window.IDNOTES = [
     ],
     "url": "notes/lung-tx-influenza-a.html",
     "type": "reading-note"
+  },
+  {
+    "id": "pic-nonhiv-pjp-steroid",
+    "title": "PIC 與 UpToDate：非 HIV PJP 輔助 corticosteroid",
+    "updated": "2026-09-20",
+    "takeaway": "嚴重低氧仍依 UTD Grade 2B 可給 steroid；PIC 28 天主終點未過，90 天僅訊號。",
+    "keywords": [
+      "PIC",
+      "PJP",
+      "PCP",
+      "Pneumocystis",
+      "corticosteroid",
+      "steroid",
+      "non-HIV",
+      "非 HIV",
+      "UpToDate",
+      "Lemiale",
+      "methylprednisolone",
+      "prednisone",
+      "低氧",
+      "ICU"
+    ],
+    "url": "notes/pic-nonhiv-pjp-steroid.html",
+    "type": "reading-note"
   }
 ];
