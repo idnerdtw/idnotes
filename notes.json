@@ -33,6 +33,7 @@
       "PJP",
       "PCP",
       "Pneumocystis",
+      "pneumonia",
       "corticosteroid",
       "steroid",
       "non-HIV",
@@ -41,7 +42,7 @@
       "Lemiale",
       "methylprednisolone",
       "prednisone",
-      "低氧",
+      "hypoxemia",
       "ICU"
     ],
     "url": "notes/pic-nonhiv-pjp-steroid.html",
