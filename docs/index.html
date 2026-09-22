@@ -16,7 +16,7 @@
 <nav aria-label="內容導覽"><a href="index.html" aria-current="page">讀書筆記與總覽</a><a href="journal-club/index.html">Journal Club 期刊選讀</a></nav>
 </header>
 <div class="search-wrap">
-<label for="q">搜尋標題、關鍵字</label>
+<label for="q">搜尋標題、摘要、關鍵字</label>
 <input id="q" type="search" placeholder="例如：肺移植、influenza…" autocomplete="off" role="combobox" aria-autocomplete="list" aria-controls="suggest" aria-expanded="false">
 <div id="suggest" role="listbox" aria-label="搜尋建議" hidden></div>
 </div>
@@ -25,8 +25,19 @@
 <button type="button" data-type="reading-note" aria-pressed="false">Reading Notes 讀書筆記</button>
 <button type="button" data-type="journal-club" aria-pressed="false">Journal Club 期刊選讀</button>
 </div>
+<details class="topics" open>
+<summary>主題標籤</summary>
+<p class="hint topic-help">點選主題縮小範圍；數字為符合目前搜尋與內容類型的篇數。</p>
+<div id="tag-cloud" class="tag-list" role="group" aria-label="主題標籤"></div>
+<button id="more-tags" class="text-button" type="button" aria-expanded="false" aria-controls="tag-cloud" hidden>顯示全部標籤</button>
+</details>
+<div class="result-tools">
+<div id="active-tag"></div>
+<button id="clear-filters" class="text-button" type="button" hidden>清除所有條件</button>
+</div>
 <p id="result-status" class="date" role="status"></p>
 <div id="list"></div>
+<button id="load-more" class="load-more" type="button" hidden>載入更多</button>
 <noscript><p>請啟用 JavaScript 使用搜尋。也可直接閱讀 <a href="notes/lung-tx-influenza-a.html">肺移植 A 型流感治療</a>，或前往 <a href="journal-club/index.html">Journal Club</a>。</p></noscript>
 <footer><a href="https://github.com/idnerdtw/idnotes">idnerdtw/idnotes</a></footer>
 </main>
