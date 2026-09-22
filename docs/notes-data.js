@@ -22,7 +22,12 @@ window.IDNOTES = [
       "IDSA"
     ],
     "url": "notes/lung-tx-influenza-a.html",
-    "type": "reading-note"
+    "type": "reading-note",
+    "tags": [
+      "移植",
+      "流感",
+      "抗病毒治療"
+    ]
   },
   {
     "id": "pic-nonhiv-pjp-steroid",
@@ -47,6 +52,11 @@ window.IDNOTES = [
       "ICU"
     ],
     "url": "notes/pic-nonhiv-pjp-steroid.html",
-    "type": "reading-note"
+    "type": "reading-note",
+    "tags": [
+      "PJP",
+      "類固醇",
+      "重症"
+    ]
   }
 ];

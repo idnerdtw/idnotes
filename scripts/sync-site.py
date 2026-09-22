@@ -2,6 +2,8 @@
 """Generate search data and sync root pages to docs/; --check never writes."""
 import argparse
 import json
+import unicodedata
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -10,8 +12,9 @@ parser.add_argument('--check', action='store_true')
 args = parser.parse_args()
 notes = json.loads((ROOT / 'notes.json').read_text(encoding='utf-8'))
 ids = set()
+tag_names = {}
 for note in notes:
-    for key in ('id', 'type', 'title', 'updated', 'takeaway', 'keywords', 'url'):
+    for key in ('id', 'type', 'title', 'updated', 'takeaway', 'keywords', 'tags', 'url'):
         if key not in note:
             raise SystemExit(f'Missing {key}: {note}')
     if note['id'] in ids:
@@ -19,6 +22,26 @@ for note in notes:
     ids.add(note['id'])
     if note['type'] not in ('reading-note', 'journal-club'):
         raise SystemExit(f'Unknown type: {note["type"]}')
+    try:
+        if date.fromisoformat(note['updated']).isoformat() != note['updated']:
+            raise ValueError()
+    except (ValueError, TypeError):
+        raise SystemExit(f'Invalid updated date (use YYYY-MM-DD): {note["id"]}')
+    for field in ('keywords', 'tags'):
+        values = note[field]
+        if not isinstance(values, list) or any(not isinstance(v, str) or not v.strip() or v != v.strip() for v in values):
+            raise SystemExit(f'{field} must be an array of nonempty, trimmed strings: {note["id"]}')
+    if not 3 <= len(note['tags']) <= 5:
+        raise SystemExit(f'Use 3–5 topic tags: {note["id"]}')
+    seen_tags = set()
+    for tag in note['tags']:
+        normalized = unicodedata.normalize('NFKC', tag).casefold()
+        if normalized in seen_tags:
+            raise SystemExit(f'Duplicate topic tag: {note["id"]}: {tag}')
+        seen_tags.add(normalized)
+        if normalized in tag_names and tag_names[normalized] != tag:
+            raise SystemExit(f'Use canonical tag spelling {tag_names[normalized]!r}, not {tag!r}')
+        tag_names[normalized] = tag
     url = note['url']
     path = ROOT / url
     prefix = 'notes/' if note['type'] == 'reading-note' else 'journal-club/'
