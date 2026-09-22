@@ -31,3 +31,17 @@ input,button{font:inherit} #q{width:100%;border:1px solid var(--line);border-rad
 footer{margin-top:2rem;font-size:.85rem} ul{padding-left:1.3rem} li{margin:.3rem 0}
 @media(max-width:520px){.wrap{padding:1.25rem 1rem 2rem}article{padding:1.1rem}nav a{padding:.3rem .4rem}}
 @media print{body{background:#fff}.filters,.search-wrap,nav{display:none}article{border:0;padding:0}.wrap{max-width:none;padding:0}}
+/* Topic navigation stays separate from the larger, hidden keyword vocabulary. */
+.topics{margin:1rem 0;padding:.8rem 1rem;border:1px solid var(--line);border-radius:12px;background:var(--paper)}
+.topics summary{cursor:pointer;font-weight:700;color:var(--brand-dark)}
+.topic-help{font-size:.85rem;margin:.5rem 0 .7rem}
+.tag-list{display:flex;flex-wrap:wrap;gap:.45rem}
+.tag{padding:.3rem .65rem;border:1px solid var(--line);border-radius:999px;background:var(--soft-2);color:var(--brand-dark);cursor:pointer;font-size:.88rem;overflow-wrap:anywhere;max-width:100%}
+.tag:hover{border-color:var(--brand)}
+.tag[aria-pressed=true],.selected-tag{background:var(--brand);border-color:var(--brand);color:#fff}
+.card-tags{margin-top:.7rem}.card-tags .tag{font-size:.8rem;padding:.2rem .55rem}
+.card{padding:1rem 1.2rem;margin-top:.75rem}.card h2{margin:.35rem 0}.card p{margin:.35rem 0}
+.result-tools{display:flex;align-items:center;justify-content:space-between;gap:.5rem;flex-wrap:wrap}
+.text-button{border:0;background:transparent;color:var(--brand-2);cursor:pointer;padding:.4rem 0;text-decoration:underline;text-underline-offset:.2em;font-size:.88rem}
+.load-more{display:block;margin:1.25rem auto;padding:.55rem 1.3rem;border:1px solid var(--brand);border-radius:10px;color:var(--brand-dark);background:var(--paper);cursor:pointer}
+@media print{.topics,.result-tools,.card-tags,.load-more{display:none}}
