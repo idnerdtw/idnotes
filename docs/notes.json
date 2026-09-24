@@ -96,5 +96,49 @@
       "移植",
       "抗病毒治療"
     ]
+  },
+  {
+    "id": "pa-combination-therapy",
+    "title": "Pseudomonas aeruginosa：要不要 combination？",
+    "updated": "2026-09-24",
+    "takeaway": "Empiric 雙覆蓋≠ definitive synergy；WT／CR 非 DTR／DTR 有活性新 β-lactam 皆以單方為主。",
+    "keywords": [
+      "Pseudomonas",
+      "aeruginosa",
+      "combination",
+      "monotherapy",
+      "DTR",
+      "DTR-PA",
+      "CR-PA",
+      "CRPA",
+      "carbapenem",
+      "ceftolozane",
+      "tazobactam",
+      "C/T",
+      "ceftazidime-avibactam",
+      "CZA",
+      "imipenem-relebactam",
+      "cefiderocol",
+      "UpToDate",
+      "IDSA",
+      "HAP",
+      "VAP",
+      "polymyxin",
+      "colistin",
+      "aminoglycoside",
+      "empiric",
+      "definitive",
+      "synergy",
+      "綠膿桿菌",
+      "聯合治療",
+      "單方"
+    ],
+    "url": "notes/pa-combination-therapy.html",
+    "type": "reading-note",
+    "tags": [
+      "重症",
+      "CR-GNB",
+      "抗菌治療"
+    ]
   }
 ]
