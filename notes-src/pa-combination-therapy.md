@@ -16,12 +16,12 @@ Topic：*Principles of antimicrobial therapy of Pseudomonas aeruginosa infection
 
 | 階段 | UpToDate 立場 |
 |------|----------------|
-| **Empiric** | 嚴重 sepsis／septic shock、neutropenic bacteremia、嚴重燒傷、或本地對擬用類別抗藥 **>10–15%** 等：考慮**兩類不同** antipseudomonal。理由是提高「至少一劑有效」的機率，**不是**已證明的 definitive synergy。常用 β-lactam ＋ aminoglycoside；AG 不合適時改 FQ。藥敏一到通常停掉多餘第二劑；低風險可單藥 empiric。 |
+| **Empiric** | 嚴重 sepsis／septic shock、neutropenic bacteremia、嚴重燒傷、或本地對擬用類別抗藥 **>10–15%** 等：考慮**兩類不同** antipseudomonal。理由是提高「至少一劑有效」的機率，**不是**已證明的 definitive synergy。常用 β-lactam ＋ aminoglycoside；aminoglycoside 不合適時改 FQ。藥敏一到通常停掉多餘第二劑；低風險可單藥 empiric。 |
 | **Definitive** | 「Definitive therapy with a single active agent (**other than an aminoglycoside**) is appropriate for most infections as there are no convincing clinical data that demonstrate a mortality benefit to combination therapy.」初期失敗／反應慢時加第二劑「may also be reasonable」，但臨床／體外／實驗資料很少；MDR 若要 combo 建議專家會診。 |
 
 ### 敏感株／部位注意
 
-- AG **不可**作為肺炎單藥（酸性環境表現差）；菌血症 AG 單藥死亡率高。下泌尿道（如 cystitis）AG 可單用。
+- Aminoglycoside **不可**作為肺炎單藥（酸性環境表現差）；菌血症 aminoglycoside 單藥死亡率高。下泌尿道（如 cystitis）aminoglycoside 可單用。
 - 觀察研究常把「empiric adequacy」跟「definitive combo」混在一起；UTD 引用的 2024 septic-shock PA-BSI 多中心：adequate empiric combo 與較低死亡相關，但 **definitive** adequate mono 與 combo **結局相近**——支持藥敏到後 de-escalate 到單一活性藥。
 
 ### Carbapenem-R／MDR／DTR（UTD）
@@ -38,7 +38,7 @@ Topic：*Principles of antimicrobial therapy of Pseudomonas aeruginosa infection
 | 表型 | Empiric | Definitive（肺炎／BSI） | Definitive combo？ |
 |------|---------|-------------------------|-------------------|
 | **1. Wild-type／傳統藥敏感** | 高風險（shock、neutropenic bacteremia、燒傷、本地抗藥高、MDR 風險）→ 兩類**短期**雙覆蓋；低風險可單藥 | 一個足量、延長輸注的活性抗假單胞 β-lactam ＋ source control | **否**。窄例外：HAP/VAP **仍在** septic shock／極高死亡風險 → 弱建議暫用兩個皆 S 的藥，休克緩解即收（ATS/IDSA 2016，very low） |
-| **2. CR-PA 非 DTR** | 同上，等到 AST | **High-dose extended-infusion** 敏感的傳統非碳青黴烯 β-lactam（例 cefepime 2 g q8h ≥3 h）；重症／source control 差可改用 C/T、CZA、I-R | **否**——不因「CR」頭銜加 AG／polymyxin（IDSA Q4.1） |
+| **2. CR-PA 非 DTR** | 同上，等到 AST | **High-dose extended-infusion** 敏感的傳統非碳青黴烯 β-lactam（例 cefepime 2 g q8h ≥3 h）；重症／source control 差可改用 C/T、CZA、I-R | **否**——不因「CR」頭銜加 aminoglycoside／polymyxin（IDSA Q4.1） |
 | **3. DTR-PA** | 依既往／本地風險選藥；新藥 AST 空窗可短期第二類 | C/T、CZA 或 I-R（S）→ **monotherapy**；cefiderocol 多為替代（MBL 時角色不同） | **常規否**（IDSA；現行網頁題號多為 Q4.6，舊摘錄可能是 Q4.8）。**僅**當**沒有任何**活性 β-lactam → last-resort：tobramycin（S）＋ MIC 最近的新 β-lactam；再不行 polymyxin B ＋新 β-lactam |
 
 **UTI：** 不需要為了 Pseudomonas 做 definitive combo。Cystitis 可考慮敏感 aminoglycoside 單藥；需要 polymyxin 時尿路偏好 colistin（非 UTI 則偏 polymyxin B）。
@@ -51,14 +51,14 @@ Combination 的正當理由幾乎都是「**還沒確認有活性藥**」或「*
 
 若臨床仍差：先查 source control、劑量／輸注策略、第二病原、重培養／重 AST——不要假設 synergy 會救場。「Combo 能防抗藥湧現」缺乏臨床證據。
 
-**長庚實務：** 有 C/T 或 CZA 且 sens → 別為心安再疊 colistin。沒有新藥、只剩 colistin／AG → 記成**資源受限的 salvage stacking**，盯腎毒性，盡快做新藥 AST／外送；不要美化成「證據支持 synergy」。
+**長庚實務：** 有 C/T 或 CZA 且 sens → 別為心安再疊 colistin。沒有新藥、只剩 colistin／aminoglycoside → 記成**資源受限的 salvage therapy**，盯腎毒性，盡快做新藥 AST／外送；不要美化成「證據支持 synergy」。
 
 ## 四、Take-home
 
 - Empiric double coverage ≠ definitive synergy。
 - Wild-type／CR 非 DTR／DTR 有活性新 β-lactam：**definitive 單方為主**（打足 PK/PD）。
 - HAP/VAP 仍休克的雙劑是**弱、很低證據**的窄例外，休克緩解即收。
-- DTR 無活性 β-lactam 才是 last-resort stacking——是 coverage 絕望局，不是 synergy 教條。
+- DTR 無活性 β-lactam 才是 last-resort salvage therapy——是 coverage 絕望局，不是 synergy 教條。
 
 ## 參考
 
