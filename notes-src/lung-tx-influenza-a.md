@@ -1,8 +1,8 @@
 # 肺移植 A 型流感治療
 
-更新日期：2026-09-17（Asia/Taipei）
+更新日期：2026-09-26（文字修訂）
 
-來源：Gigi小助手修訂＋UpToDate（一般流感治療／肺移植病毒感染專題）＋Grok Expert 交叉核對；對照 AST 2019、CDC antiviral summary、IDSA、Mitha 2019、FLAGSTONE、TAMIFLU 美國仿單。公開頁面僅放去識別化臨床摘要，不含個案資料。
+來源：UpToDate（一般流感治療／肺移植病毒感染專題）；對照 AST 2019、CDC antiviral summary、IDSA、Mitha 2019、FLAGSTONE、TAMIFLU 美國仿單。
 
 ## 一、核心原則
 
@@ -21,16 +21,16 @@
 
 - 至少 **5 日**（AST）
 - 肺炎／下呼吸道感染、重症、持續症狀或持續病毒複製：可考慮延長至 10 日或更久，依臨床與病毒學個別決定
-- **不寫成每位肺移植固定 10 日**；鼻咽 PCR 陰性不作唯一停藥條件
+- **不必每位肺移植都固定 10 日**；鼻咽 PCR 陰性不作唯一停藥條件
 - 重症、病程延長或呼吸衰竭：下呼吸道 RT-PCR 可協助判斷是否仍有複製、是否延長（AST／CDC）
 
-**UpToDate 註記：** 一般流感治療頁多寫住院約 5 日、症狀持續可延至約 10 日；其「肺移植專題」對住院 LTx 語氣較傾向至少 10 日。實務上採「至少 5 日＋依病程延長」，並標明來源差異即可。
+**UpToDate 註記：** 一般流感治療頁多寫住院約 5 日、症狀持續可延至約 10 日；其「肺移植專題」對住院 LTx 語氣較傾向至少 10 日。本筆記採至少 5 日，依病程延長。
 
 ### 是否 150 mg BID？
 
 - AST 2019：重症或反應不足可「考慮」雙倍，屬 weak／low
 - 整合 CDC、IDSA、Mitha 2019 與 UpToDate 一般治療頁：**不建議常規加倍**
-- Mitha：標準 vs 雙倍、兩組皆 10 日；無臨床優勢；不能用來證明「10 日優於 5 日」
+- Mitha 2019：標準 vs 雙倍劑量，兩組皆 10 日；雙倍組治療後抗藥較少（3 vs 12），成人症狀緩解時間相近。不支持常規加倍，也不能用來比較 10 日與 5 日療程。
 
 ## 三、其他抗病毒
 
@@ -46,7 +46,7 @@
 
 重度免疫抑制者不建議常規單藥（證據不足＋抗藥風險）。小型免疫低下／腎移植回溯資料不足以取代 oseltamivir。FLAGSTONE 未證明住院重症常規加 baloxavir 可改善主要終點。
 
-**UpToDate 註記：** 其肺移植專題對「住院 LTx」曾建議考慮 oseltamivir＋baloxavir；這與一般治療頁、CDC、FLAGSTONE「不常規 combo」不一致。此版採：**不列常規**；僅難治／抗藥／極高危由感染＋移植團隊個別討論。
+**UpToDate 註記：** 其肺移植專題對住院 LTx 曾建議考慮 oseltamivir＋baloxavir，與一般治療頁、CDC 及 FLAGSTONE 不一致。本筆記不列為常規；僅難治、抗藥或極高危病人由感染科與移植團隊個別討論。
 
 ## 四、經驗性抗生素？
 
@@ -77,7 +77,6 @@
 - AST 2019：SOT 呼吸道病毒指引；SOT 肺炎指引
 - CDC：Influenza antiviral summary for clinicians
 - IDSA：流感治療與細菌共感染指引
-- Mitha et al., 2019：免疫低下者 oseltamivir 劑量試驗
+- Mitha 2019：免疫低下者 oseltamivir 劑量試驗。Mitha E, et al. *Infect Dis Ther.* 2019;8:613–626. PMID 31667696.
 - FLAGSTONE：baloxavir＋NAI 重症住院試驗
 - UpToDate：Seasonal influenza in nonpregnant adults—Treatment；Viral infections following lung transplantation
-- Grok Expert 交叉核對；Gigi小助手修訂討論
