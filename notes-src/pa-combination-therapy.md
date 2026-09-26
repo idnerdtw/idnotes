@@ -1,18 +1,18 @@
 # Pseudomonas aeruginosa：要不要 combination？
 
-更新日期：2026-09-24（Asia/Taipei）
+更新日期：2026-09-26
 
-來源：UpToDate Topic 3135（2026-09-24 登入核對）；IDSA AMR Guidance；ATS/IDSA HAP/VAP 2016。三方討論：Boss ＋ Codex gpt-6-sol ＋ Claude Opus 5.5 High（各 3 輪）。
+來源：UpToDate Topic 3135；IDSA AMR Guidance；ATS/IDSA HAP/VAP 2016。
 
-床邊常把三件事混在一起：empiric 雙覆蓋、definitive 再疊第二劑、以及 in vitro synergy／防抗藥湧現。下面先寫 UpToDate，再寫表型做法與討論共識。
+床邊常把三件事混在一起：empiric 雙覆蓋、definitive 再疊第二劑、以及 in vitro synergy／防抗藥湧現。下面先寫 UpToDate，再依表型整理做法。
 
 ## 一、目前建議（UpToDate）
 
-Topic：*Principles of antimicrobial therapy of Pseudomonas aeruginosa infections*（Topic 3135, Version 61.0；**last updated Aug 17, 2026**；Literature review current through Aug 2026）。MDR／DTR 搜尋亦回到同一 topic。頁面聲明 MDR 建議與 **IDSA AMR guidance** 大體一致；「What’s New」提及 2026-07 更新的 IDSA guidance。
+Topic：*Principles of antimicrobial therapy of Pseudomonas aeruginosa infections*（Topic 3135, Version 61.0；**last updated Aug 17, 2026**；Literature review current through Aug 2026）。頁面聲明 MDR 建議與 **IDSA AMR guidance** 大體一致。
 
 **一句話：** Monotherapy is generally adequate；combination 留給特定高風險 empiric，以及少數 definitive 例外——不是「CR／DTR 標籤＝一定要雙劑」。
 
-### Empiric vs directed（UTD 原文邏輯）
+### Empiric vs directed
 
 | 階段 | UpToDate 立場 |
 |------|----------------|
@@ -27,19 +27,21 @@ Topic：*Principles of antimicrobial therapy of Pseudomonas aeruginosa infection
 ### Carbapenem-R／MDR／DTR（UTD）
 
 - 對 first-line（含 TZP、cephalosporins、carbapenems）抗藥：先驗新藥藥敏；若對 **ceftolozane-tazobactam** 或 **ceftazidime-avibactam** 敏感 → **建議 monotherapy**；cefiderocol 或 imipenem-cilastatin-relebactam 為替代。Polymyxin 通常保留到沒有其他選擇。
-- **DTR** 定義（UTD 摘錄）：對所有回報的 carbapenems、β-lactams、fluoroquinolones 中介／抗藥。應請專家協助。
+- **DTR** 定義：對所有回報的 carbapenems、β-lactams、fluoroquinolones 中介／抗藥。應請專家協助。
 - Cefiderocol：IDSA 對 **UTI** 較偏好；非尿路且其他選項不可用時為替代。
 - Last-resort：非 cystitis 的 polymyxin 常與第二敏感劑併用；cystitis 可用 colistin 單藥，避免 polymyxin B（尿中濃度差）。
 
-## 二、三層表型 × 床邊做法
+## 二、證據／數字
+
+### 三層表型 × 床邊做法
 
 定義（IDSA）：**DTR-PA**＝對 TZP、CAZ、FEP、ATM、MEM、IPM、CIP、LVX **全部 NS**。**CR-PA 非 DTR**＝carbapenem NS，但仍對 ≥1 傳統劑（FEP／CAZ／TZP／ATM／FQ）敏感（常見偏 OprD 缺失）。C/T、CZA、I-R 本身算**一個** antipseudomonal 骨架，不算「兩劑聯合」。
 
 | 表型 | Empiric | Definitive（肺炎／BSI） | Definitive combo？ |
 |------|---------|-------------------------|-------------------|
 | **1. Wild-type／傳統藥敏感** | 高風險（shock、neutropenic bacteremia、燒傷、本地抗藥高、MDR 風險）→ 兩類**短期**雙覆蓋；低風險可單藥 | 一個足量、延長輸注的活性抗假單胞 β-lactam ＋ source control | **否**。窄例外：HAP/VAP **仍在** septic shock／極高死亡風險 → 弱建議暫用兩個皆 S 的藥，休克緩解即收（ATS/IDSA 2016，very low） |
-| **2. CR-PA 非 DTR** | 同上，等到 AST | **High-dose extended-infusion** 敏感的傳統非碳青黴烯 β-lactam（例 cefepime 2 g q8h ≥3 h）；重症／source control 差可改用 C/T、CZA、I-R | **否**——不因「CR」頭銜加 aminoglycoside／polymyxin（IDSA Q4.1） |
-| **3. DTR-PA** | 依既往／本地風險選藥；新藥 AST 空窗可短期第二類 | C/T、CZA 或 I-R（S）→ **monotherapy**；cefiderocol 多為替代（MBL 時角色不同） | **常規否**（IDSA；現行網頁題號多為 Q4.6，舊摘錄可能是 Q4.8）。**僅**當**沒有任何**活性 β-lactam → last-resort：tobramycin（S）＋ MIC 最近的新 β-lactam；再不行 polymyxin B ＋新 β-lactam |
+| **2. CR-PA 非 DTR** | 同上，等到 AST | **High-dose extended-infusion** 敏感的傳統非碳青黴烯 β-lactam（例 cefepime 2 g q8h ≥3 h）；重症／source control 差可改用 C/T、CZA、I-R | **否**——不因「CR」頭銜加 aminoglycoside／polymyxin（IDSA AMR guidance） |
+| **3. DTR-PA** | 依既往／本地風險選藥；新藥 AST 空窗可短期第二類 | C/T、CZA 或 I-R（S）→ **monotherapy**；cefiderocol 多為替代（MBL 時角色不同） | **常規否**（IDSA AMR guidance）。**僅**當**沒有任何**活性 β-lactam → last-resort：tobramycin（S）＋ MIC 最近的新 β-lactam；再不行 polymyxin B ＋新 β-lactam |
 
 **UTI：** 不需要為了 Pseudomonas 做 definitive combo。Cystitis 可考慮敏感 aminoglycoside 單藥；需要 polymyxin 時尿路偏好 colistin（非 UTI 則偏 polymyxin B）。
 
@@ -67,6 +69,8 @@ UpToDate. Principles of antimicrobial therapy of Pseudomonas aeruginosa infectio
 Infectious Diseases Society of America. Guidance on the treatment of antimicrobial resistant gram-negative infections (living document; Pseudomonas / CR-PA / DTR-PA sections, including combination questions). https://www.idsociety.org/practice-guideline/amr-guidance/
 
 Kalil AC, et al. Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society. *Clin Infect Dis.* 2016. https://www.idsociety.org/practice-guideline/hap_vap/
+
+### 延伸閱讀
 
 Tamma PD, Cosgrove SE, Maragakis LL. Combination therapy for treatment of infections with gram-negative bacteria. *Clin Microbiol Rev.* 2012;25:450–470.
 

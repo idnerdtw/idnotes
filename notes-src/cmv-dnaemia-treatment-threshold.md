@@ -1,8 +1,8 @@
 # CMV DNA 病毒血症：何時治療、改善什麼
 
-更新日期：2026-09-22（Asia/Taipei）
+更新日期：2026-09-26
 
-來源：UpToDate 三篇 CMV 主題（2026-09-22 登入核對）；GRAIL／Papazian 原文終點（含同仁提醒：VFD28 與 VFD60 不可併談）。Claude 當日觸用量上限未回覆。
+來源：UpToDate 三篇 CMV 主題；GRAIL、Papazian 原文。
 
 問這篇之前常聽到的說法：「ICU 有 DNAemia 也不用治」「1000 IU 再開工」「移植跟 ICU 一樣看數字」。下面依宿主拆開。
 
@@ -24,7 +24,7 @@
   - 任何病人 **>500 IU/mL** → 盡快開始；
   - **高風險**（GVHD、prednisone、anti–T-cell 等）→ **任何 viremia** 即治；
   - **低風險**且 **<500 IU/mL** → 3–4 天後複驗，上升再治。
-- 目標是避免 invasive CMV disease。數字**不是**跨 assay 的全球標準；plasma／whole blood／assay 不可互換。正在 letermovir prophylaxis 的低量 blip，不要直接套這套（是否僅適用 non-letermovir／preemptive 情境，仍宜對照當頁上下文）。
+- 目標是避免 invasive CMV disease。數字**不是**跨 assay 的全球標準；plasma／whole blood／assay 不可互換。
 
 ### 腎臟 SOT
 
@@ -32,17 +32,19 @@
 - D+/R− 及 R+：**優先 universal prophylaxis**；preemptive 是替代方案，不是同等預設。
 - 若走 preemptive：術後約 3 個月**每週** PCR；偵測到 **any CMV replication** 即以治療劑量 valganciclovir／IV ganciclovir，至少 14–21 天至 NAT 陰性。跨中心／assay 門檻**未標準化**——不要簡化成「所有 SOT、任何 PCR+ 都治」。
 
-## 二、給 ganciclovir 後，到底改善什麼
+## 二、證據／數字
 
-**VFD**＝指定觀察窗內「存活且不需侵入性呼吸器」的天數（一定要寫清 VFD28／VFD60）；死亡通常計 0。它**不是** ICU-free days。兩支 ICU 試驗的終點窗口與主／次要地位不同，**不可**併成「ICU VFD 都沒改善」。
+### 給 ganciclovir 後改善什麼
+
+**VFD**＝指定觀察窗內「存活且不需侵入性呼吸器」的天數（需註明 VFD28 或 VFD60）；死亡通常計 0。它**不是** ICU-free days。兩支 ICU 試驗的終點窗口與主／次要地位不同，**不可**併成「ICU VFD 都沒改善」。
 
 | 情境 | 改善了什麼 | 沒改善／限制 |
 |------|------------|--------------|
-| **GRAIL 2017**（ICU **prophylaxis**；Limaye） | CMV **再活化** 12% vs 39%；**VFD28（次要）** 23 vs 20 天，**p=0.05**（訊號，不是已證實全面臨床 benefit） | **IL-6（主終點）**、次發菌／真菌血症、ICU 住院天數、**28 天死亡率**（12% vs 15%，p=.54）無差。UTD 綜述強調後者，未必凸顯 VFD28。 |
-| **Papazian 2021**（呼吸器 ICU，**已再活化**後 preemptive；ganciclovir 5 mg/kg ×14 天） | （UTD 此段未寫 VL 下降） | **VFD60（主終點）** 中位 10 vs 0 天，**p=.46**；competing-risk sHR 1.14（0.63–2.06），p=.66——兩種分析不要混。**60 天死亡** 41% vs 43%，p=.845。Futility 提早停、樣本小；寫「未證實效益」，不要寫「證實無效」。 |
-| **HCT preemptive（培養時代經典 RCT）** | Goodrich 1991：alloBMT、無症狀 **surveillance culture 陽性**後給藥（不是現代 PCR cutoff 研究）；CMV disease day100 **1/37（3%）vs 15/35（43%）**；該試驗 OS 較好 | Neutropenia 較高。Goodrich 1993 是 **engraftment 起 prophylaxis**，infection／disease 降、存活無顯著差、neutropenia 約 30%——策略不同，不要跟 1991 併成一句。 |
-| **兒科 threshold／HCT prophylaxis 系列** | 較低門檻常伴隨較低 peak、較快陰轉 | 兒科 &lt;1000 vs ≥1000：12 月 disease／OS／NRM 可無差。部分 prophylaxis 試驗 infection／disease ↓但 **存活未改善**（常歸因 neutropenia → 續發感染；不宜說成唯一確定原因）。 |
-| **腎臟 SOT 預防策略比較** | infection／disease 率可因 prophylaxis vs preemptive 而異 | 死亡、排斥、移植物喪失在多項分析常**無顯著差**。CMV 與死亡的「關聯」≠「給藥後死亡率必降」。 |
+| **GRAIL 2017**（ICU **prophylaxis**；Limaye） | CMV **再活化** 12% vs 39%；**VFD28（次要）** 23 vs 20 天，**p=0.05**（訊號，不是已證實全面臨床 benefit） | **IL-6（主終點）**、次發菌／真菌血症、ICU 住院天數、**28 天死亡率**（12% vs 15%，p=.54）無差。 |
+| **Papazian 2021**（呼吸器 ICU，**已再活化**後 preemptive；ganciclovir 5 mg/kg ×14 天） | — | **VFD60（主終點）** 中位 10 vs 0 天，**p=.46**；competing-risk sHR 1.14（0.63–2.06），p=.66。**60 天死亡** 41% vs 43%，p=.845。Futility 提早停、樣本小；未證實效益（不等於證實無效）。 |
+| **HCT preemptive（培養時代經典 RCT）** | Goodrich 1991：alloBMT、無症狀 **surveillance culture 陽性**後給藥（不是現代 PCR cutoff 研究）；CMV disease day100 **1/37（3%）vs 15/35（43%）**；該試驗 OS 較好 | Neutropenia 較高。Goodrich 1993 是 **engraftment 起 prophylaxis**，infection／disease 降、存活無顯著差、neutropenia 約 30%——策略不同於 1991。 |
+| **兒科 threshold／HCT prophylaxis 系列（UpToDate 綜述）** | 較低門檻常伴隨較低 peak、較快陰轉 | 兒科 <1000 vs ≥1000：12 月 disease／OS／NRM 可無差。部分 prophylaxis 試驗 infection／disease ↓但 **存活未改善**（常歸因 neutropenia 後續發感染）。 |
+| **腎臟 SOT 預防策略比較（UpToDate 綜述）** | infection／disease 率可因 prophylaxis vs preemptive 而異 | 死亡、排斥、移植物喪失在多項分析常**無顯著差**。CMV 與死亡的「關聯」≠「給藥後死亡率必降」。 |
 
 同 immunocompetent topic 的比較分析：抗病毒 ≥14 天僅在 **immunocompromised** 組看到住院死亡下降訊號——不能外推到免疫健全 ICU。
 
@@ -74,6 +76,6 @@ Limaye AP, et al. Effect of ganciclovir on IL-6 levels among cytomegalovirus-ser
 
 Papazian L, et al. Effect of ganciclovir on CMV reactivation and clinical outcomes in critically ill patients: a randomized clinical trial. *Ann Intensive Care.* 2021. https://link.springer.com/article/10.1186/s13613-020-00793-2
 
-Goodrich JM, et al. Ganciclovir prophylaxis to prevent cytomegalovirus disease after allogeneic marrow transplant. *N Engl J Med.* 1991. https://pubmed.ncbi.nlm.nih.gov/1658652/
+Goodrich JM, et al. Early treatment with ganciclovir to prevent cytomegalovirus disease after allogeneic bone marrow transplantation. *N Engl J Med.* 1991;325:1601–1607. https://pubmed.ncbi.nlm.nih.gov/1658652/
 
-Goodrich JM, et al. Early treatment with ganciclovir to prevent cytomegalovirus disease after allogeneic bone marrow transplantation. *Ann Intern Med.* 1993. https://pubmed.ncbi.nlm.nih.gov/8380242/
+Goodrich JM, et al. Ganciclovir prophylaxis to prevent cytomegalovirus disease after allogeneic marrow transplant. *Ann Intern Med.* 1993;118:173–178. https://pubmed.ncbi.nlm.nih.gov/8380242/
