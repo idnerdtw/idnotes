@@ -82,6 +82,7 @@ window.IDNOTES = [
       "cytomegalovirus",
       "ganciclovir",
       "immunocompetent",
+      "letermovir",
       "preemptive",
       "prophylaxis",
       "transplant",

@@ -1,6 +1,6 @@
 # 非 HIV PJP 的輔助 corticosteroid
 
-更新日期：2026-09-26
+更新日期：2026-09-26（文字修訂）
 
 來源：UpToDate〈Treatment and prevention of Pneumocystis pneumonia in patients without HIV〉（2026-03-30 更新）；PIC 全文（Lemiale et al., *Lancet Respir Med* 2025）。
 
@@ -12,11 +12,9 @@ UpToDate 依嚴重度決定是否加 steroid，**不是所有非 HIV PJP 都給*
 - **常用劑量（沿用 HIV PJP 21 天 taper）：** prednisone 40 mg bid ×5 天 → 40 mg qd ×5 天 → 20 mg qd ×11 天。無法口服時可用等效 IV methylprednisolone（UTD 寫可約 prednisone 劑量的 80%）。
 - **輕症：** 不建議 routine adjunctive steroid。
 
-Bedside 先問：這位是否「嚴重低氧、需住院處理的非 HIV PJP」。是 → 仍可按 UTD Grade 2B 給。不是 → 不要因為「有 PIC」就全面開 steroid。
+關鍵在是否為「嚴重低氧、需住院處理的非 HIV PJP」。是 → 可按 UTD Grade 2B 給。否 → PIC 不構成擴大使用 steroid 的理由。
 
-## 二、證據／數字
-
-### PIC（Lemiale et al., 2025）
+## 二、PIC 數字（Lemiale et al., 2025）
 
 法國 27 中心、雙盲 RCT；非 AIDS、急性呼吸衰竭／輕至重度低氧、已有微生物證據、抗 *Pneumocystis* 治療 <7 天。NCT02944045。ITT：placebo 111，steroid 107。近乎全部（95%）隨機時在 ICU／中間病房。
 
@@ -25,23 +23,24 @@ Bedside 先問：這位是否「嚴重低氧、需住院處理的非 HIV PJP」�
 - **次要（支持性訊號，非主終點）：** 90 天死亡 28.0% vs 43.2%，HR 0.59（0.37–0.93），p=0.022。隨機時尚未插管者後續插管 6/60 vs 18/69，HR 0.36（0.14–0.90）。28 天繼發感染未升高（23.4% vs 34.2%）。
 - **執行細節：** 診斷到試驗用藥中位 3 天；實際試驗藥物中位約 13 天（range 7–20），不是完整 21 天。
 
-## 三、讀完後我會怎麼講
+## 三、PIC 改了什麼、沒改什麼
 
-- **我仍依嚴重度決定：** 重度低氧可給、輕症不 routine。
-- **28 天 primary 未達顯著**（點估計約少 11 個百分點，CI 含無差別）；90 天與後續插管的 secondary 訊號仍不足以上修 Grade 2B。
-- **不要外推到：** 門診／無低氧、colonization 而非臨床 PJP、基線已 >1 mg/kg/day 類固醇（試驗排除）、或「所有 PCR 陽性就算」。
+- **UTD 架構不變：** 重度低氧可給、輕症不 routine。PIC 結果不足以支持停用，也不足以宣稱降低死亡。
+- **28 天主終點未達顯著：** 點估計約少 11 個百分點，95% CI 含無差別；論文摘要因此寫「不顯著」，90 天結果屬次要終點。
+- **90 天死亡與後續插管為次要終點訊號：** 方向一致，但不足以作為死亡率效益的證據，也不據此上修 Grade 2B。
+- **適用範圍：** 不外推到門診或無低氧、colonization、基線類固醇已 >1 mg/kg/day（試驗排除），或僅 PCR 陽性而無臨床 PJP 者。
 
-### 適用範圍與限制
+## 四、限制
 
 樣本小、收案約 7 年（2017–2024）；約半數發病前已在長期類固醇；83% 僅 PCR probable；宿主混雜；實際曝光短於方案 21 天。適用場景接近：**非 AIDS、嚴重低氧、已住院甚至在 ICU 的 PJP**，不是全部非 HIV PJP。PIC 收入為 mild-to-severe hypoxaemia 並以氧氣需求分層，並非嚴格等於 UTD 的 PaO₂／A–a／SpO₂ 門檻定義。
 
-## 四、Take-home
+## 五、Take-home
 
 PIC **未證實** adjunctive corticosteroid 可降低非 HIV PJP 的 **28 天死亡率**。90 天死亡與避免後續插管是**支持性訊號，不是定論**。
 
 - **嚴重低氧非 HIV PJP：仍可合理使用** adjunctive steroid（**UpToDate Grade 2B**）；PIC 沒有否定這條路。
 - **輕症：不 routine。**
-- 開藥時用 UTD／HIV 樣 21 天 taper（或 PIC 的 methylprednisolone 固定遞減），並記住這不是「已證實改善死亡率」的適應症擴張。
+- 開藥時用 UTD／HIV 樣 21 天 taper（或 PIC 的 methylprednisolone 固定遞減）；這不是「已證實改善死亡率」的適應症擴張。
 
 ## 參考
 
