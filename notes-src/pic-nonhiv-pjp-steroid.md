@@ -1,5 +1,7 @@
 # 非 HIV PJP 的輔助 corticosteroid
 
+初版日期：2026-09-19
+
 更新日期：2026-09-26（文字修訂）
 
 來源：UpToDate〈Treatment and prevention of Pneumocystis pneumonia in patients without HIV〉（2026-03-30 更新）；PIC 全文（Lemiale et al., *Lancet Respir Med* 2025）。
@@ -48,4 +50,4 @@ Lemiale V, et al. Adjunctive corticosteroids in non-AIDS patients with severe *P
 
 Erratum in: *Lancet Respir Med.* 2025;13(9):e50. DOI: https://doi.org/10.1016/S2213-2600(25)00295-4.（更正 Statistical analysis 中 VFD28 計算式的文字，不影響本筆記引用的結果數字。）
 
-UpToDate. Treatment and prevention of Pneumocystis pneumonia in patients without HIV. Topic last updated Mar 30, 2026.
+UpToDate. Treatment and prevention of Pneumocystis pneumonia in patients without HIV. Topic last updated Mar 30, 2026. https://www.uptodate.com/contents/treatment-and-prevention-of-pneumocystis-pneumonia-in-patients-without-hiv

@@ -14,7 +14,7 @@ notes = json.loads((ROOT / 'notes.json').read_text(encoding='utf-8'))
 ids = set()
 tag_names = {}
 for note in notes:
-    for key in ('id', 'type', 'title', 'updated', 'takeaway', 'keywords', 'tags', 'url'):
+    for key in ('id', 'type', 'title', 'created', 'updated', 'takeaway', 'keywords', 'tags', 'url'):
         if key not in note:
             raise SystemExit(f'Missing {key}: {note}')
     if note['id'] in ids:
@@ -22,11 +22,14 @@ for note in notes:
     ids.add(note['id'])
     if note['type'] not in ('reading-note', 'journal-club'):
         raise SystemExit(f'Unknown type: {note["type"]}')
-    try:
-        if date.fromisoformat(note['updated']).isoformat() != note['updated']:
-            raise ValueError()
-    except (ValueError, TypeError):
-        raise SystemExit(f'Invalid updated date (use YYYY-MM-DD): {note["id"]}')
+    for field in ('created', 'updated'):
+        try:
+            if date.fromisoformat(note[field]).isoformat() != note[field]:
+                raise ValueError()
+        except (ValueError, TypeError):
+            raise SystemExit(f'Invalid {field} date (use YYYY-MM-DD): {note["id"]}')
+    if note['created'] > note['updated']:
+        raise SystemExit(f'created after updated: {note["id"]}')
     for field in ('keywords', 'tags'):
         values = note[field]
         if not isinstance(values, list) or any(not isinstance(v, str) or not v.strip() or v != v.strip() for v in values):
