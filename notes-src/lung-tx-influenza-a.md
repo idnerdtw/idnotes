@@ -1,5 +1,7 @@
 # 肺移植 A 型流感治療
 
+初版日期：2026-09-17
+
 更新日期：2026-09-26（文字修訂）
 
 來源：UpToDate（一般流感治療／肺移植病毒感染專題）；對照 AST 2019、CDC antiviral summary、IDSA、Mitha 2019、FLAGSTONE、TAMIFLU 美國仿單。
@@ -77,6 +79,6 @@
 - AST 2019：SOT 呼吸道病毒指引；SOT 肺炎指引
 - CDC：Influenza antiviral summary for clinicians
 - IDSA：流感治療與細菌共感染指引
-- Mitha 2019：免疫低下者 oseltamivir 劑量試驗。Mitha E, et al. *Infect Dis Ther.* 2019;8:613–626. PMID 31667696.
+- Mitha 2019：免疫低下者 oseltamivir 劑量試驗。Mitha E, et al. *Infect Dis Ther.* 2019;8:613–626. PMID 31667696. https://pubmed.ncbi.nlm.nih.gov/31667696/
 - FLAGSTONE：baloxavir＋NAI 重症住院試驗
-- UpToDate：Seasonal influenza in nonpregnant adults—Treatment；Viral infections following lung transplantation
+- UpToDate：Seasonal influenza in nonpregnant adults—Treatment https://www.uptodate.com/contents/seasonal-influenza-in-nonpregnant-adults-treatment；Viral infections following lung transplantation https://www.uptodate.com/contents/viral-infections-following-lung-transplantation

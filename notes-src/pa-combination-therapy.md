@@ -1,5 +1,7 @@
 # Pseudomonas aeruginosa：要不要 combination？
 
+初版日期：2026-09-24
+
 更新日期：2026-09-26（文字修訂）
 
 來源：UpToDate Topic 3135；IDSA AMR Guidance；ATS/IDSA HAP/VAP 2016。
