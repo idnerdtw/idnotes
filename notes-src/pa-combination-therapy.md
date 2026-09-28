@@ -12,7 +12,7 @@
 
 Topic：*Principles of antimicrobial therapy of Pseudomonas aeruginosa infections*（Topic 3135, Version 61.0；**last updated Aug 17, 2026**；Literature review current through Aug 2026）。頁面聲明 MDR 建議與 **IDSA AMR guidance** 大體一致。
 
-**一句話：** Monotherapy is generally adequate；combination 留給特定高風險 empiric，以及少數 definitive 例外——不是「CR／DTR 標籤＝一定要雙劑」。
+**多數情況單藥就夠；combination 只留給特定高風險的 empiric，以及少數 definitive 例外——不是「CR／DTR 標籤＝一定要雙劑」。**
 
 ### Empiric vs directed（UTD 原文邏輯）
 
