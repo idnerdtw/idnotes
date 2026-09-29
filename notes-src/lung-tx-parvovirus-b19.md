@@ -6,7 +6,7 @@
 
 ## 一、核心判斷
 
-**持續 B19 DNAemia＋嚴重輸血依賴性貧血＋顯著 reticulocytopenia＝presumptive B19-associated PRCA，先治再說；但低量 DNAemia 本身不證明因果。**
+**持續 B19 DNAemia＋嚴重輸血依賴性貧血＋顯著 reticulocytopenia＝presumptive B19-associated PRCA（pure red cell aplasia），先治再說；但低量 DNAemia 本身不證明因果。**
 
 貧血發生時病毒量通常很高；極低量 DNA 或免疫低下者的持續 viremia 未必有臨床意義（UpToDate）。因果判斷看表型＋活動性證據，高病毒量增加可信度。
 
