@@ -144,5 +144,38 @@
       "CR-GNB",
       "抗菌治療"
     ]
+  },
+  {
+    "id": "lung-tx-parvovirus-b19",
+    "title": "肺移植 parvovirus B19 持續感染與 PRCA",
+    "created": "2026-09-29",
+    "updated": "2026-09-29",
+    "takeaway": "IVIG total 2 g/kg＋優先處理 mycophenolate；再治療看血液學，不為低量 PCR 陽性追加；SOT 不做常規 maintenance。",
+    "keywords": [
+      "肺移植",
+      "parvovirus B19",
+      "PRCA",
+      "pure red cell aplasia",
+      "貧血",
+      "anemia",
+      "IVIG",
+      "mycophenolate",
+      "MMF",
+      "foscarnet",
+      "tacrolimus",
+      "transplant",
+      "LTx",
+      "AST",
+      "UpToDate",
+      "reticulocytopenia"
+    ],
+    "url": "notes/lung-tx-parvovirus-b19.html",
+    "type": "reading-note",
+    "tags": [
+      "移植",
+      "貧血",
+      "parvovirus B19",
+      "IVIG"
+    ]
   }
 ]
