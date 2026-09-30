@@ -1,6 +1,8 @@
-# 肺移植 parvovirus B19 持續感染與 PRCA
+# 肺移植 parvovirus B19 持續感染與 pure red cell aplasia（PRCA）
 
 初版日期：2026-09-29
+
+更新日期：2026-09-30（文字修訂）
 
 來源：UpToDate（B19 治療／診斷／移植後貧血三專題）；對照 AST IDCOP 2019、Ontario IVIG utilization guidance v5.0、Crabol 2013、Meena 2026、Yu 2021。
 
