@@ -177,5 +177,48 @@
       "parvovirus B19",
       "IVIG"
     ]
+  },
+  {
+    "id": "cre-cephalosporin-susceptible",
+    "title": "CRE 的 cephalosporin susceptible：機轉、報告與選藥",
+    "created": "2026-09-30",
+    "updated": "2026-09-30",
+    "takeaway": "CRE 可對 ceftriaxone／ceftazidime／cefepime 測得 S；侵襲性感染仍不建議用傳統 beta-lactam，做 carbapenemase 分型走機轉導向選藥。",
+    "keywords": [
+      "CRE",
+      "carbapenem-resistant Enterobacterales",
+      "cephalosporin",
+      "cefepime",
+      "ceftriaxone",
+      "ceftazidime",
+      "carbapenemase",
+      "OXA-48",
+      "KPC",
+      "NDM",
+      "MBL",
+      "metallo-beta-lactamase",
+      "CLSI",
+      "EUCAST",
+      "IDSA",
+      "UpToDate",
+      "aztreonam-avibactam",
+      "cefiderocol",
+      "ceftazidime-avibactam",
+      "Zavicefta",
+      "SDD",
+      "susceptible-dose dependent",
+      "mCIM",
+      "eCIM",
+      "porin",
+      "AMS",
+      "antimicrobial stewardship"
+    ],
+    "url": "notes/cre-cephalosporin-susceptible.html",
+    "type": "reading-note",
+    "tags": [
+      "CR-GNB",
+      "抗菌治療",
+      "重症"
+    ]
   }
 ]
