@@ -183,7 +183,7 @@ window.IDNOTES = [
     "id": "cre-cephalosporin-susceptible",
     "title": "CRE 的 cephalosporin susceptible：機轉、報告與選藥",
     "created": "2026-09-30",
-    "updated": "2026-09-30",
+    "updated": "2026-10-01",
     "takeaway": "CRE 可對 ceftriaxone／ceftazidime／cefepime 測得 S；侵襲性感染仍不建議用傳統 beta-lactam，做 carbapenemase 分型走機轉導向選藥。",
     "keywords": [
       "CRE",
